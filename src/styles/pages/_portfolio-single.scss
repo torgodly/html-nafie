@@ -1,0 +1,51 @@
+/* 2. Single Portfolio Page Styles */
+/*---------------------------------*/
+.portfolio {
+  &-page {
+  }
+
+  &__tools {
+    @include flexbox(flex, "", center, "", "", wrap);
+    gap: 0.3125rem;
+    padding: {
+      left: 0.25rem;
+      right: 0.25rem;
+    }
+
+    @media #{$max_576} {
+      justify-content: center;
+    }
+
+    &__link {
+      display: block;
+      background-color: hsl(var(--main-color-one));
+      color: hsl(var(--light-color));
+      line-height: 1.125rem;
+      font-size: 0.75rem;
+      padding: 0.25rem 0.5rem;
+      border-radius: var(--radius-size);
+
+      &:hover {
+        background-color: hsl(var(--bg-color-reverse));
+        color: hsl(var(--bg-color-one));
+      }
+
+      &:focus {
+        @include focusStyle();
+      }
+    }
+  }
+
+  &__livePreview {
+    width: calc(100% - 1rem);
+    margin: 0 0.5rem;
+
+    &::after {
+      background-color: hsl(var(--main-color-one));
+    }
+
+    &:hover {
+      color: hsl(var(--light-color));
+    }
+  }
+}

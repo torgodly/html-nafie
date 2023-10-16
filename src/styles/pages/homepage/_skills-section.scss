@@ -1,0 +1,57 @@
+/* 4. Skills Section Styles */
+/*--------------------------*/
+.skills {
+  &-section {
+    .section-content {
+      @include flexbox(flex, "", center, "", "", "");
+      gap: 3.125rem;
+
+      @media #{$max_991} {
+        flex-direction: column;
+      }
+    }
+  }
+
+  &__text,
+  &__wrapper {
+    @media #{$min_992} {
+      flex: 1;
+    }
+  }
+
+  &__text {
+    .toggle-switch-btn {
+      @media #{$max_767} {
+        margin: auto;
+      }
+    }
+  }
+
+  &__items {
+    @include flexbox(flex, "", center, center, "", wrap);
+    margin: 0 -0.5rem -1rem;
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  &__item {
+    @include flexbox(flex, "", center, center, "", "");
+    height: 5rem;
+    width: 5rem;
+    background-color: hsl(var(--bg-color-two));
+    margin: 0 0.5rem 1rem;
+    border-radius: var(--radius-size);
+    box-shadow: var(--card-shadow);
+    cursor: help;
+    visibility: hidden;
+
+    &__img {
+      display: block;
+      width: 3rem;
+      margin: auto;
+    }
+
+    &:focus {
+      @include focusStyle();
+    }
+  }
+}

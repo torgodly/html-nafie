@@ -1,0 +1,406 @@
+{
+  "prefix": "",
+  "languages": "Languages",
+  "i18n": {
+    "lang": {
+      "code": "en",
+      "short": "EN",
+      "medium": "ENG",
+      "full": "English"
+    },
+    "dir": "ltr",
+    "startDir": "left",
+    "endDir": "right",
+    "fonts": "https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto&family=Saira+Stencil+One&text=Nafie&display=swap",
+    "otherLang": {
+      "prefix": "ar-",
+      "code": "ar",
+      "short": "ع",
+      "medium": "عربي",
+      "full": "العربية"
+    }
+  },
+
+  "browserTitle": "Nafie - HTML Portfolio Template",
+
+  "header": {
+    "navbar": {
+      "links": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+      },
+      "offCanvasMenu": {
+        "about": {
+          "subTitle": "I love making things simple, intuitive and expertly crafted!",
+          "mainTitle": "Product is the vital essence of what i do, truly great product is born of meticulous planning and process. This is where i specialized!"
+        },
+        "contact": {
+          "email": {
+            "title": "Email"
+          },
+          "address": {
+            "title": "Address",
+            "part1": "941 saqrqorish Road, alandalos,",
+            "part2": "grnata, wa 47122-4194"
+          },
+          "phone": {
+            "title": "Phone"
+          }
+        }
+      }
+    },
+    "modeSwitcherBtn": "Change Mode",
+    "hamburgerBtn": "Toggle Side Menu"
+  },
+
+  "footer": {
+    "copyright": "2023 Proudly Powered by",
+    "webrouk": "Webrouk"
+  },
+
+  "scrollToTop": "Back To Top",
+
+  "components": {
+    "brandLogo": "Nafie"
+  },
+
+  "heroSection": {
+    "text": {
+      "line1": "We Design & Build",
+      "line2": "Creative Products",
+      "btn": "Get In Touch"
+    },
+    "scroll": "Scroll",
+    "scrollDown": "Scroll Down"
+  },
+
+  "statsSection": {
+    "stat1": "Years of Experience",
+    "stat2": "Completed Projects",
+    "stat3": "Happy Clients"
+  },
+
+  "aboutSection": {
+    "subtitle": "about me",
+    "title1": "Need a Creative Product?",
+    "title2": "I can Help You!",
+    "paragraph": "Hi! I’m Muhammad Mabrouk, and I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.",
+    "hireBtn": "Hire Me",
+    "downloadBtn": "Download CV"
+  },
+
+  "skillsSection": {
+    "subtitle": "my skills",
+    "title1": "What My Programming",
+    "title2": "Skills Included?",
+    "paragraph": "I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.",
+    "skills": "Skills",
+    "tools": "Tools"
+  },
+
+  "experienceSection": {
+    "subtitle": "experience",
+    "title1": "12+ Years of Experience",
+    "title2": "With Many Awards!",
+    "paragraph": "I have been developing sites and apps for 12 years and i know for sure the main trends and directions of modern design, I have been a visionary and a reliable software engineering partner for world-class brands. You will get a decent result as you expect.",
+    "items": {
+      "i1": {
+        "date": "2011",
+        "company": "Google Inc.",
+        "job": "Front-End Developer",
+        "desc": "Monitored technical aspects of the front-end delivery for projects."
+      },
+      "i2": {
+        "date": "2013",
+        "company": "Facebook Inc.",
+        "job": "Full Stack Developer",
+        "desc": "Collaborate with creative and development teams on the execution of ideas."
+      },
+      "i3": {
+        "date": "2015",
+        "company": "Envato Inc.",
+        "job": "UI/UX Developer",
+        "desc": "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript."
+      },
+      "i4": {
+        "date": "2017",
+        "company": "Google Inc.",
+        "job": "Front-End Developer",
+        "desc": "Monitored technical aspects of the front-end delivery for projects."
+      },
+      "i5": {
+        "date": "2019",
+        "company": "Facebook Inc.",
+        "job": "Full Stack Developer",
+        "desc": "Collaborate with creative and development teams on the execution of ideas."
+      },
+      "i6": {
+        "date": "2021",
+        "company": "Google Inc.",
+        "job": "Front-End Developer",
+        "desc": "Monitored technical aspects of the front-end delivery for projects."
+      },
+      "i7": {
+        "date": "2023",
+        "company": "Facebook Inc.",
+        "job": "Full Stack Developer",
+        "desc": "Collaborate with creative and development teams on the execution of ideas."
+      }
+    }
+  },
+
+  "portfolioSection": {
+    "subtitle": "my works",
+    "title1": "See My Works Which",
+    "title2": "Will Amaze You!",
+    "paragraph": "We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.",
+    "noWorksMsg": "No works to load",
+    "loadMoreWorks": "Load more works",
+    "items": {
+      "title": "Lorem Ipsum Dolor",
+      "date": "February 2023"
+    }
+  },
+
+  "testimonialsSection": {
+    "subtitle": "testimonials",
+    "title1": "Check What's My Clients",
+    "title2": "Say About Me",
+    "items": {
+      "i1": {
+        "quote": "Nafie simply provides amazing web development service. Their team is extremely professional and the easiest to meet I have ever worked with. I would recommend Nafie to anyone.",
+        "author": "Terrell Grimes",
+        "job": "Photographer"
+      },
+      "i2": {
+        "quote": "Excellent Team to work with. Always positive to find the most appropriate solution. Nafie is one of the professional web development agency that provides awesome services.",
+        "author": "Lonny Corkery",
+        "job": "Project Manager"
+      },
+      "i3": {
+        "quote": "Nafie team is very professional, always delivers high quality results, and is always there to help. Look forward to working with Nafie in other projects.",
+        "author": "Max Schmidt DDS",
+        "job": "CEO, Designer"
+      },
+      "i4": {
+        "quote": "Nafie worked on a handful of projects for us and has always exceeded our expectations. Nafie team is dedicated, talented and a delight to work with.",
+        "author": "Amir Stoltenberg",
+        "job": "Sales Manager"
+      },
+      "i5": {
+        "quote": "I know I can count on your service if I need my project done fast and with the best possible result. I am a regular customer and hope to continue our work!",
+        "author": "Kenton Marquardt",
+        "job": "Art Director"
+      },
+      "i6": {
+        "quote": "Muhammad was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of developer you can trust with a project from start to finish.",
+        "author": "Reyna Hammes",
+        "job": "Motion Graphic Animator"
+      },
+      "i7": {
+        "quote": "Muhammad was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of developer you can trust with a project from start to finish.",
+        "author": "Jovan Parisian",
+        "job": "Motion Graphic Animator"
+      },
+      "i8": {
+        "quote": "I know I can count on your service if I need my project done fast and with the best possible result. I am a regular customer and hope to continue our work!",
+        "author": "Pasquale Deckow",
+        "job": "Art Director"
+      },
+      "i9": {
+        "quote": "Nafie worked on a handful of projects for us and has always exceeded our expectations. Nafie team is dedicated, talented and a delight to work with.",
+        "author": "Rosa Ferry",
+        "job": "Sales Manager"
+      },
+      "i10": {
+        "quote": "Nafie team is very professional, always delivers high quality results, and is always there to help. Look forward to working with Nafie in other projects.",
+        "author": "Keshaun Robel",
+        "job": "CEO, Designer"
+      },
+      "i11": {
+        "quote": "Excellent Team to work with. Always positive to find the most appropriate solution. Nafie is one of the professional web development agency that provides awesome services.",
+        "author": "Casper Paucek",
+        "job": "Project Manager"
+      },
+      "i12": {
+        "quote": "Nafie simply provides amazing web development service. Their team is extremely professional and the easiest to meet I have ever worked with. I would recommend Nafie to anyone.",
+        "author": "Archibald Fadel",
+        "job": "Photographer"
+      },
+      "i13": {
+        "quote": "Nafie simply provides amazing web development service. Their team is extremely professional and the easiest to meet I have ever worked with. I would recommend Nafie to anyone.",
+        "author": "Tabitha Denesik",
+        "job": "Photographer"
+      },
+      "i14": {
+        "quote": "Excellent Team to work with. Always positive to find the most appropriate solution. Nafie is one of the professional web development agency that provides awesome services.",
+        "author": "Javon Bogan",
+        "job": "Project Manager"
+      },
+      "i15": {
+        "quote": "Nafie team is very professional, always delivers high quality results, and is always there to help. Look forward to working with Nafie in other projects.",
+        "author": "Duncan Kemmer",
+        "job": "CEO, Designer"
+      },
+      "i16": {
+        "quote": "Nafie worked on a handful of projects for us and has always exceeded our expectations. Nafie team is dedicated, talented and a delight to work with.",
+        "author": "Coy Johns",
+        "job": "Sales Manager"
+      },
+      "i17": {
+        "quote": "I know I can count on your service if I need my project done fast and with the best possible result. I am a regular customer and hope to continue our work!",
+        "author": "Murphy Roberts",
+        "job": "Art Director"
+      },
+      "i18": {
+        "quote": "Muhammad was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of developer you can trust with a project from start to finish.",
+        "author": "Dimitri Lockman",
+        "job": "Motion Graphic Animator"
+      }
+    }
+  },
+
+  "contactSection": {
+    "subtitle": "contact",
+    "title1": "Have You Any Project?",
+    "title2": "Please Drop a Message",
+    "paragraph": "Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.",
+    "info": {
+      "address": {
+        "title": "Address:",
+        "content": "941 Saqrqorish Road, alandalos, grnata, wa 47122-4194"
+      },
+      "phone": "Phone:",
+      "email": "Email:"
+    },
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "e.g. John Doe",
+      "emailLabel": "Email",
+      "emailPlaceholder": "e.g. john.doe@gmail.com",
+      "phoneLabel": "Phone",
+      "phonePlaceholder": "Phone Number",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Write message...",
+      "submitBtn": "Send"
+    }
+  },
+
+  "portfolioPage": {
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "caption": "caption",
+    "livePreview": "Live Preview"
+  },
+
+  "archivePage": {
+    "title": "The latest projects in",
+    "taxonomy": "taxonomy"
+  },
+
+  "errorPage": {
+    "title": "This page is missing",
+    "desc": "We're sorry, we couldn't find the page you requested.",
+    "homeLink": "Back to Home"
+  },
+
+  "toastNotifications": {
+    "formsValidation": {
+      "isRequired": "is required",
+      "mustBeAtLeast": "must be at least",
+      "mustBeAtMost": "must be at most",
+      "characters": "characters",
+      "minimum": "should be minimum",
+      "maximum": "should be maximum",
+      "enterValidEmail": "Please enter a valid email address",
+      "enterValidPhone": "Please enter a valid Phone Number",
+      "enterValidUrl": "Please enter a valid URL",
+      "enterValidDate": "Please enter a valid Date",
+      "cannotContainSpaces": "cannot contain spaces",
+      "passwordsMustMatch": "Passwords must match",
+      "equalsOldPassword": "New password cannot be the same as your old password",
+      "enterPasswordFirst": "Please enter your password first",
+      "confirmYourPassword": "Please confirm your password",
+      "enterOldPassword": "Please enter your old password",
+      "notValidFileFormat": "Not a valid file format, we only support",
+      "for": "for"
+    },
+    "changesSaved": "Changes saved successfully!",
+    "oopsSomethingWrong": "Oops! something went wrong, please try again.",
+    "messageSent": "Message sent successfully!",
+    "requestSent": "Your request has been sent successfully!",
+    "successfullyRegistered": "Great! successfully registered!",
+    "successfullyLoggedIn": "Successfully logged in!",
+    "successfullyReviewPosted": "Your review has been posted!",
+    "successfullyCommentPosted": "Your comment has been posted!"
+  },
+  "numbers": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9"
+  },
+  "global": {
+    "social": {
+      "title": "Social Networks",
+      "google": "Google",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp",
+      "youtube": "YouTube",
+      "snapchat": "Snapchat",
+      "tiktok": "TikTok",
+      "behance": "Behance",
+      "dribbble": "Dribbble",
+      "pinterest": "Pinterest",
+      "github": "Github",
+      "codepen": "CodePen",
+      "envato": "Envato",
+      "email": "Email"
+    },
+    "loading": "Loading",
+    "star": "Star",
+    "stars": "Stars",
+    "yes": "Yes",
+    "no": "No",
+    "optional": "(Optional)",
+    "readMore": "Read More",
+    "prev": "Previous",
+    "next": "Next",
+    "curPage": "Current Page",
+    "postedBy": "Posted by",
+    "johnDoe": "John Doe",
+    "comments": "Comments",
+    "views": "Views",
+    "reviews": "Reviews",
+    "monthsAgoTime": "Months ago",
+    "tags": "Tags",
+    "share": "Share",
+    "pct": "%",
+    "download": "Download",
+    "chooseFile": "Choose File",
+    "browse": "Browse",
+    "dropFiles": "Drop files here",
+    "select": "Select...",
+    "search": "Search...",
+    "noResults": "No results found...",
+    "default": "Default",
+    "addNew": "Add New",
+    "restart": "Restart",
+    "reset": "Reset",
+    "remove": "Remove",
+    "close": "Close",
+    "dismiss": "Dismiss",
+    "saveChanges": "Save Changes"
+  }
+}

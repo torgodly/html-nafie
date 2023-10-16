@@ -1,0 +1,27 @@
+/*------------------------------------------------------------------------------------------*/
+/* 6. Components Styles */
+/*------------------------------------------------------------------------------------------*/
+
+// Import global components files
+@import "global/circle-cursor";
+@import "global/preloader";
+@import "global/brand-logo";
+@import "global/scroll-to-top";
+@import "global/ajax-loader";
+@import "global/notifications";
+
+// Import layout components files
+@import "layout/the-header/the-header";
+@import "layout/the-header/navbar";
+@import "layout/the-header/langs-dropdown";
+@import "layout/the-header/mode-switcher";
+@import "layout/the-header/hamburger-btn";
+@import "layout/the-footer";
+
+// Import ui components files
+@import "ui/custom-scrollbar";
+@import "ui/forms";
+@import "ui/buttons";
+@import "ui/toggle-switch-btn";
+@import "ui/tooltip-simple";
+@import "ui/tooltip-ultimate";
